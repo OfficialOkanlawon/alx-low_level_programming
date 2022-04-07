@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- *  main - main begins execution of file
- *  Return: 0
+ * main - main begins execution of file
+ * Return: 0
 */
 int main(void)
 {
